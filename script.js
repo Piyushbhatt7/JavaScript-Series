@@ -1,5 +1,8 @@
 // console.log("Hello world");
 
+let a = 5;
+let b = 2;
+
 //Aritimetic operators
 // let a = 5;
 // let b = 2;
@@ -8,7 +11,7 @@
 
 // Unary Operators
 
-let a = 5;
-let b = 2;
-a = a++;
-console.log(a);
+
+
+console.log(a++);
+console.log(++a);
