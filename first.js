@@ -18,7 +18,7 @@
 
 const post = {
 
-    userName: "shradhaphapra",
+    userName: "@shradhaphapra",
     isFollow: true,
     followers: 500,
     following: 4,
@@ -26,3 +26,4 @@ const post = {
 };
 
 console.log(post);
+typeof(post["bio"]);
