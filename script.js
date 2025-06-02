@@ -18,5 +18,5 @@ let b = 2;
 
 // Assigment operator
 
-a+=4;
+a -=4;
 console.log(a);
