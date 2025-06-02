@@ -13,7 +13,7 @@ let b = 2;
 
 
 //20:43
-// console.log("a++ = ", a++);
+// console.log("a++ = ", a++); 
 // console.log("++a = ", ++a);
 
 // Assigment operator
