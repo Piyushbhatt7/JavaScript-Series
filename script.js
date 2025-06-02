@@ -37,5 +37,5 @@ console.log("a >= b", a > b); // true // false
 let age = 23;
 if( age > 18)
 {
-    console.log("")
+    console.log("can vote")
 }
