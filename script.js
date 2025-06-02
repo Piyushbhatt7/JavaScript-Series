@@ -24,4 +24,4 @@ let b = 2;
 
 // Comparison operator
 
-console.log("a == b", a == b);
+console.log("a == b", a == b); // true // false
