@@ -18,5 +18,6 @@ let b = 2;
 
 // Assigment operator
 
-a -=4;
-console.log(a);
+// a **=6;
+a **= 4;
+console.log(a); // 5*5*5*5*5
