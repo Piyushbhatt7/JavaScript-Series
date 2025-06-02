@@ -28,3 +28,5 @@ console.log("a >= b", a > b); // true // false
 
 
 // Logical Operators
+
+console.log("a > b && a != b", a >b && a != b);
