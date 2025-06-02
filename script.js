@@ -23,3 +23,5 @@ let b = 2;
 // console.log(a); // 5*5*5*5*5
 
 // Comparison operator
+
+console.log("a == b", a == b);
