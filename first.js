@@ -6,12 +6,23 @@
 // age = 45;
 // console.log(age);
 
-const student = {
-    fullName: "Piyush",
-    age: 20,
-    cgpa: 7.5,
-    isPass: true,
+// const student = {
+//     fullName: "Piyush",
+//     age: 20,
+//     cgpa: 7.5,
+//     isPass: true,
 
     
+// };
+// console.log(student);
+
+const post = {
+
+    username: "shradhaphapra",
+    isFollow: true,
+    followers: 500,
+    following: 4,
+    bio: "I love to teach students",
 };
-console.log(student);
+
+console.log(post);
