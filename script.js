@@ -19,5 +19,7 @@ let b = 2;
 // Assigment operator
 
 // a **=6;
-a **= 4;
-console.log(a); // 5*5*5*5*5
+// a **= 4;
+// console.log(a); // 5*5*5*5*5
+
+// Comparison operator
