@@ -24,7 +24,7 @@ let b = 2;
 
 // Comparison operator
 
-console.log("a >= b", a > b); // true // false
+// console.log("a >= b", a > b); // true // false
 
 
 // Logical Operators
@@ -35,7 +35,7 @@ console.log("a >= b", a > b); // true // false
 // conditional statement
 
 let age = 23;
-if( age > 18)
+if( age >= 23)
 {
     console.log("can vote")
 }
