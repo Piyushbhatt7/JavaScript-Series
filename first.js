@@ -18,7 +18,7 @@
 
 const post = {
 
-    username: "shradhaphapra",
+    userName: "shradhaphapra",
     isFollow: true,
     followers: 500,
     following: 4,
