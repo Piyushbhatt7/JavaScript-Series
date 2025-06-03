@@ -8,5 +8,5 @@ if(num % 5 === 0)
 }
 
 else {
-    console.log("The number is not a multiple of 5");
+    console.log(`The ${num} is not a multiple of 5`);
 }
