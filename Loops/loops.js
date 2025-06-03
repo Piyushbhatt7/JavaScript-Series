@@ -72,7 +72,7 @@ let student = {
     isPass: true,
 };
 
-for(let i in student)
+for(let key in student)
 {
-    console.log(i);
+    console.log("Key = ", key, " value = ", student[key]);
 }
