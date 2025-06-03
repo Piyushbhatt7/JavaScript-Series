@@ -20,16 +20,16 @@
 // while loop
 
 // while(condition)
-{
-    // do some work
-}
+// {
+//     // do some work
+// }
 
-let i = 1;
-while(i<=10)
-{
-    console.log("i = ", i);
-    i++;
-}
+// let i = 1;
+// while(i<=10)
+// {
+//     console.log("i = ", i);
+//     i++;
+// }
 
 // do-while Loops
 
@@ -37,3 +37,10 @@ while(i<=10)
 //      do some work
 
 // }while(condition)
+
+let i = 20;
+do {
+    console.log("I love India");
+    i++;
+}
+while(i<=10);
