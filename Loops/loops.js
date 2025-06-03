@@ -53,12 +53,22 @@
 //      do some work
 // }
 
-let str = "Hello world";
-let size = 0;
-for(let i of str)
-{
-    console.log(i);
-    size++;
-}
+// let str = "Hello world";
+// let size = 0;
+// for(let i of str)
+// {
+//     console.log(i);
+//     size++;
+// }
 
-console.log(size);
+// console.log(size);
+
+//  for in loop
+
+let student = {
+    name: "John singh",
+    age: 23,
+    cgpa: 7.5,
+    isPass: true,
+};
+
