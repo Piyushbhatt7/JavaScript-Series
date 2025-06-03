@@ -30,3 +30,10 @@ while(i<=10)
     console.log("i = ", i);
     i++;
 }
+
+// do-while Loops
+
+// do {
+//      do some work
+
+// }while(condition)
