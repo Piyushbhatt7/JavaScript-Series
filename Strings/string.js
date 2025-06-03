@@ -29,4 +29,5 @@
 // *str.trim();
 
 let str = "print string";
-str.toUpperCase();
+
+console.log(str.toUpperCase());
