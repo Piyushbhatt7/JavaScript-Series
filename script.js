@@ -46,13 +46,35 @@ let b = 2;
 
 // checking number is even or odd
 
-let num = 16;
+// let num = 16;
 
-if(num % 2 == 0)
+// if(num % 2 == 0)
+// {
+//    console.log("even number");
+// }
+
+// else {
+//     console.log("odd number");
+// }
+
+let mode = "dark";
+let color;
+
+if(mode == "dark")
 {
-   console.log("even number");
+    color = "black";
 }
 
-else {
-    console.log("odd number");
+else if(mode == "blue")
+{
+    color = "blue";
+}
+
+else if(mode == "pink")
+{
+    color = "pink";
+}
+
+else{
+    color = white;
 }
