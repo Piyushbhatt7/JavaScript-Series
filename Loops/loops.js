@@ -72,3 +72,7 @@ let student = {
     isPass: true,
 };
 
+for(let i in student)
+{
+    console.log(i);
+}
