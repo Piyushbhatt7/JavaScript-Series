@@ -53,8 +53,8 @@
 //      do some work
 // }
 
-let Str = "Hello world";
-for(let i of Str)
+let str = "Hello world";
+for(let i of str)
 {
     console.log(i);
 }
