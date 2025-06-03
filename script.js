@@ -32,14 +32,23 @@ let b = 2;
 // console.log("a > b && a != b", a >b && a == b);
 // console.log("a > b || a != b", a >b || a == b);
 
-// conditional statement
+// Conditional Statement
 
-let age = 16;
-if( age >= 18)
+// let age = 16;
+// if( age >= 18)
+// {
+//     console.log("can vote")
+// }
+
+// else {
+//     console.log("can't vote");
+// }
+
+// checking number is even or odd
+
+let um = 5;
+
+if(2 %= 0)
 {
-    console.log("can vote")
-}
-
-else {
-    console.log("can't vote");
+   console.log("even number")
 }
