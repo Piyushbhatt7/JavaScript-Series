@@ -4,7 +4,7 @@ let num = Number(prompt("Enter a number"));
 
 if(num % 5 === 0)
 {
-    console.log("The number is multiple of 5");
+    console.log(`The {num} is multiple of 5`);
 }
 
 else {
