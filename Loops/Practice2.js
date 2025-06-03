@@ -5,9 +5,9 @@ let gameNumber = 25;
 
 let userNum = prompt("Guess the number");
 
-while(userNumber !== gameNumber)
+while(userNum != gameNumber)
 {
-    prompt("You enterd wrong number. Guess again: ")
+    userNum = prompt("You enterd wrong number. Guess again: ");
 }
 
 console.log("congrats! you guessed the right number");
