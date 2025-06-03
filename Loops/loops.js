@@ -38,9 +38,18 @@
 
 // }while(condition)
 
-let i = 1;
-do {
-    console.log("I love India");
-    i++;
-}
-while(i<=10);
+// let i = 1;
+// do {
+//     console.log("I love India");
+//     i++;
+// }
+// while(i<=10);
+
+// for-of loop
+
+
+// for(let val of strVar)
+// {
+//      do some work
+// }
+
