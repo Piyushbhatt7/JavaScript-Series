@@ -53,3 +53,8 @@
 //      do some work
 // }
 
+let Str = "Hello world";
+for(let i of Str)
+{
+    console.log(i);
+}
