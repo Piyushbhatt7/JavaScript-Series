@@ -48,7 +48,11 @@ let b = 2;
 
 let um = 5;
 
-if(2 %= 0)
+if(num % 2 == 0)
 {
-   console.log("even number")
+   console.log("even number");
+}
+
+else {
+    console.log("odd number");
 }
