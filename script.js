@@ -57,29 +57,33 @@ let b = 2;
 //     console.log("odd number");
 // }
 
-let mode = "dark";
-let color;
+// let mode = "dark";
+// let color;
 
-if(mode === "dark")
-{
-    color = "black";
-}
+// if(mode === "dark")
+// {
+//     color = "black";
+// }
 
-else if(mode === "blue")
-{
-    color = "blue";
-}
+// else if(mode === "blue")
+// {
+//     color = "blue";
+// }
 
-else if(mode === "pink")
-{
-    color = "pink";
-}
+// else if(mode === "pink")
+// {
+//     color = "pink";
+// }
 
-else{
-    color = "white";
-}
+// else{
+//     color = "white";
+// }
 
-console.log(color);
+// console.log(color);
 
-if(mode == "dark")
-    console.log("black");
+
+// Ternary Operator
+
+ let age = 25;
+
+ let result = age >= 18 ? "adult" : "not adult";
