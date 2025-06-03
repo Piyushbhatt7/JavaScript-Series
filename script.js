@@ -78,3 +78,5 @@ else if(mode == "pink")
 else{
     color = white;
 }
+
+console.log(color);
