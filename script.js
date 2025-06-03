@@ -86,5 +86,7 @@ let b = 2;
 
  let age = 25;
 
- let result = age >= 18 ? "adult" : "not adult"; // age >= 18 ? console.log("adult" : "not adult");
- console.log(result);
+//  let result = age >= 18 ? "adult" : "not adult"; 
+// 
+ age >= 18 ? console.log("adult") : console.log("not adult");
+//  console.log(result);
