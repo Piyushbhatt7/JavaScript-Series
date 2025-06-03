@@ -30,4 +30,5 @@
 
 let str = "print string";
 
-console.log(str.toUpperCase());
+// console.log(str.toUpperCase());
+console.log(str.trim());
