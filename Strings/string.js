@@ -27,8 +27,11 @@
 // * str.toUpperCase();
 // * str.toLowerCase();
 // *str.trim();
+// * str.slice(start, end?);, return part of string
+// * str.concat(str2); // join 2 strings
+// * str.replace()
 
-let str = "print string";
+let str = "  print string   ";
 
 // console.log(str.toUpperCase());
 console.log(str.trim());
