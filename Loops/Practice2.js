@@ -4,4 +4,10 @@
 let gameNumber = 25;
 
 let userNum = prompt("Guess the number");
-console.log(userNum)
+
+while(userNumber !== gameNumber)
+{
+    prompt("You enterd wrong number. Guess again: ")
+}
+
+console.log("congrats! you guessed the right number");
