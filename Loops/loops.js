@@ -2,8 +2,18 @@
 
 // for loop
  
-for(let count = 1; count <= 5; count++)
+// for(let count = 1; count <= 5; count++)
+// {
+//     console.log("Count is: " + count) // 5 time executed
+// }
+
+
+// Calculated sum of 1 to 5
+let sum = 0;
+for(let i = 1; i<=5; i++)
 {
-    console.log("Count is: " + count)
+  sum += i;
 }
+
+console.log("Sum = ", sum);
 
