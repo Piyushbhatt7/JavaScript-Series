@@ -18,4 +18,4 @@ let obj = {
     price: 10,
 };
 
-console.log(`the cost of ${obj.item} is ${obj.price} rupees`);
+console.log(`the cost of ${obj.item}\n is ${obj.price} rupees`);
