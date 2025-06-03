@@ -94,7 +94,7 @@ let b = 2;
 // Taking number as a input
 
 alert("Hello"); // one time pop-up
-prompt("Hello");
+console.log(prompt("Hello"));
 
 
 
