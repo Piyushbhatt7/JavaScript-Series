@@ -57,26 +57,26 @@ let b = 2;
 //     console.log("odd number");
 // }
 
-let mode = "dark";
+let mode = "orange";
 let color;
 
-if(mode == "dark")
+if(mode === "dark")
 {
     color = "black";
 }
 
-else if(mode == "blue")
+else if(mode === "blue")
 {
     color = "blue";
 }
 
-else if(mode == "pink")
+else if(mode === "pink")
 {
     color = "pink";
 }
 
 else{
-    color = white;
+    color = "white";
 }
 
 console.log(color);
