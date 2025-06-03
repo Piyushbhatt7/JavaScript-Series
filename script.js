@@ -46,7 +46,7 @@ let b = 2;
 
 // checking number is even or odd
 
-let num = 5;
+let num = 16;
 
 if(num % 2 == 0)
 {
