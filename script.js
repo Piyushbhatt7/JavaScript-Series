@@ -57,7 +57,7 @@ let b = 2;
 //     console.log("odd number");
 // }
 
-let mode = "orange";
+let mode = "dark";
 let color;
 
 if(mode === "dark")
@@ -80,3 +80,6 @@ else{
 }
 
 console.log(color);
+
+if(mode == "dark")
+    console.log("black");
