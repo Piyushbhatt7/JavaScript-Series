@@ -29,7 +29,8 @@
 // *str.trim();
 // * str.slice(start, end?);, return part of string
 // * str.concat(str2); // join 2 strings
-// * str.replace()
+// * str.replace(searchVal, newVal);
+// * str.charAt(idx);
 
 let str = "  print string   ";
 
