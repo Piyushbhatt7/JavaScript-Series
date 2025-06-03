@@ -12,10 +12,18 @@
 // let sentence = `This is a template literal`;
 // console.log(sentence);
 
-let obj = {
+// let obj = {
 
-    item: "pen",
-    price: 10,
-};
+//     item: "pen",
+//     price: 10,
+// };
 
-console.log(`the cost of ${obj.item}\n is ${obj.price} rupees`);
+// console.log(`the cost of ${obj.item}\n is ${obj.price} rupees`);
+
+// String method 
+
+// These are built-in function to manipulate a string
+
+// * str.toUpperCase();
+// * str.toLowerCase();
+// *str.trim();
