@@ -93,8 +93,8 @@ let b = 2;
 
 // Taking number as a input
 
-alert("Hello"); // one time pop-up
-console.log(prompt("Hello"));
+// alert("Hello"); // one time pop-up
+// console.log(prompt("Hello"));
 
 
 
