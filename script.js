@@ -88,5 +88,7 @@ let b = 2;
 
 //  let result = age >= 18 ? "adult" : "not adult"; 
 // 
- age >= 18 ? console.log("adult") : console.log("not adult");
+ age >= 18 ? console.log("adult") : console.log("not adult");  // compact if-else
 //  console.log(result);
+
+
