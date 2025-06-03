@@ -34,7 +34,7 @@ let b = 2;
 
 // conditional statement
 
-let age = 23;
+let age = 16;
 if( age >= 18)
 {
     console.log("can vote")
