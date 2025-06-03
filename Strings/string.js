@@ -27,3 +27,6 @@
 // * str.toUpperCase();
 // * str.toLowerCase();
 // *str.trim();
+
+let str = "print string";
+str.toUpperCase();
