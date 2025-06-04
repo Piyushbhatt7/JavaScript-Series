@@ -19,5 +19,6 @@ let heros = ["ironman", "hulk", "batman", "superman", "antman", "spiderman"];
 
 for(let idx = 0; idx < heros.length; idx++)
 {
-    
+    console.log(heros[idx]);
+    // console.log(idx, heros[idx]);
 }
