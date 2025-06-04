@@ -30,3 +30,5 @@
 // Pop() -> delete from end & return
 
 // toString() -> converts array to string
+
+let food 
