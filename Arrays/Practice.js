@@ -6,5 +6,7 @@
 
 for(let arr of marks)
 {
-    sum += sum + arr;
+    sum += arr;
 }
+
+console.log("sum of marks: ", sum);
