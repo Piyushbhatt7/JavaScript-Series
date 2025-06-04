@@ -17,8 +17,9 @@
 // All items are offer of 10% OFF on them. Change the array to store final prices after applying the offer.
 
 let items = [250, 645, 30, 900, 50];
-
+let idx = 0;
 for(let val of items)
 {
-    console.log(val)
+    console.log(`value at index ${idx} = ${val}`);
+    idx++;
 }
