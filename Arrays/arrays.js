@@ -52,3 +52,4 @@ let marvel = ["thor", "spiderman", "antman", "hulk"];
 let dc = ["superman", "batman"];
 
 let marvel_heros = marvel.concat(dc);
+console.log(marvel_heros);
