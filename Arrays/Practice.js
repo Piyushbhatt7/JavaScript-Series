@@ -39,3 +39,6 @@ let companies = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
 
 // companies.splice(2, 1, "Ola");
 // console.log(companies);
+
+companies.push();
+console.log(companies);
