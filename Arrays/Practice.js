@@ -32,3 +32,5 @@
 // a) Remove the first company frm the array
 // b) Remove Uber & Add Ola in its place
 // c) Add Amazon at the end
+
+let companies = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
