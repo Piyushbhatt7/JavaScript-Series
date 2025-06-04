@@ -44,6 +44,9 @@
 // fooditems.pop();
 // console.log(fooditems);
 
-let fooditems = ["pavbaji", "dosa", "bhture", "paneer"];
-fooditems.toString();
-console.log(fooditems);
+// let fooditems = ["pavbaji", "dosa", "bhture", "paneer"];
+// fooditems.toString();
+// console.log(fooditems);
+
+let marvel = ["thor", "spiderman", "antman", "hulk"];
+let dc = 
