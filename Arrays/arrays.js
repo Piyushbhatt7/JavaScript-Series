@@ -54,5 +54,5 @@
 // let marvel_heros = marvel.concat(dc);
 // console.log(marvel_heros);
 
-marvel.unshift("pookie");
+marvel.shift();
 console.log(marvel);
