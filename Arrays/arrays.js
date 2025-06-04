@@ -33,3 +33,5 @@
 
 let fooditems = ["pavbaji", "dosa", "bhture", "paneer"];
 fooditems.push("naan");
+
+console.log(fooditems);
