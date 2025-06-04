@@ -31,4 +31,5 @@
 
 // toString() -> converts array to string
 
-let food 
+let fooditems = ["pavbaji", "dosa", "bhture", "paneer"];
+console.log(fooditems.push());
