@@ -3,7 +3,9 @@
 
 // Create Array
 
-// let heros = ["ironman", "hulk", "batman"];
+ let heros = ["ironman", "hulk", "batman"];
+//  console.log(heros.length);
+ console.log(typeof heros);
 
 // let marks = [56, 78, 90, 51, 45];
 
