@@ -34,3 +34,5 @@
 // c) Add Amazon at the end
 
 let companies = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
+companies.shift();
+console.log(companies);
