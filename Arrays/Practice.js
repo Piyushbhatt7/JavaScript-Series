@@ -8,5 +8,6 @@ for(let arr of marks)
 {
     sum += arr;
 }
-
+let avg  =sum / marks.length;
+console.log("average of marks are: ", avg);
 console.log("sum of marks: ", sum);
