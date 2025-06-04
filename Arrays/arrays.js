@@ -59,3 +59,5 @@
 
 // Slice() -> return a piece of the array
 // Splice() -> change original array (add, remove, replace)
+
+// let marvel = ["thor", "spiderman", "antman", "hulk"];
