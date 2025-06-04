@@ -31,7 +31,11 @@
 
 // toString() -> converts array to string
 
-let fooditems = ["pavbaji", "dosa", "bhture", "paneer"];
-fooditems.push("naan");
+// let fooditems = ["pavbaji", "dosa", "bhture", "paneer"];
+// fooditems.push("naan");
 
+// console.log(fooditems);
+
+let fooditems = ["pavbaji", "dosa", "bhture", "paneer"];
+fooditems.pop("dosa");
 console.log(fooditems);
