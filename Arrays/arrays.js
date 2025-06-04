@@ -37,5 +37,5 @@
 // console.log(fooditems);
 
 let fooditems = ["pavbaji", "dosa", "bhture", "paneer"];
-fooditems.pop("dosa");
+fooditems.pop();
 console.log(fooditems);
