@@ -49,4 +49,4 @@
 // console.log(fooditems);
 
 let marvel = ["thor", "spiderman", "antman", "hulk"];
-let dc = 
+let dc = ["superman", "batman"];
