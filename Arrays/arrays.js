@@ -55,7 +55,7 @@
 // console.log(marvel_heros);
 
 // marvel.shift();
-// console.log(marvel);  
+// console.log(marvel);   
      
 // Slice() -> return a piece of the array
 // Splice() -> change original array (add, remove, replace)
