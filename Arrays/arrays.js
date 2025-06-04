@@ -62,4 +62,4 @@
 
  let marvel = ["thor", "spiderman", "antman", "hulk", "ninja", "superman"];
 //  console.log(marvel.slice(0, 3));
-console.log(marvel.splice(0, 2));
+// console.log(marvel.splice(0, 2));
