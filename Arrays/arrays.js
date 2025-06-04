@@ -61,3 +61,4 @@
 // Splice() -> change original array (add, remove, replace)
 
  let marvel = ["thor", "spiderman", "antman", "hulk", "ninja", "superman"];
+ console.log(marvel.slice(0, 3));
