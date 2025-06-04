@@ -48,11 +48,14 @@
 // fooditems.toString();
 // console.log(fooditems);
 
- let marvel = ["thor", "spiderman", "antman", "hulk"];
+// let marvel = ["thor", "spiderman", "antman", "hulk"];
 // let dc = ["superman", "batman"];
 
 // let marvel_heros = marvel.concat(dc);
 // console.log(marvel_heros);
 
-marvel.shift();
-console.log(marvel);
+// marvel.shift();
+// console.log(marvel);
+
+// Slice() -> return a piece of the array
+// Splice() -> change original array (add, remove, replace)
