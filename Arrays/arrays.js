@@ -31,6 +31,10 @@
 
 // toString() -> converts array to string
 
+// Concat() -> joins multiple arrays & return result
+// unshift() -> add to start
+// shift() -> delete from start and return
+
 // let fooditems = ["pavbaji", "dosa", "bhture", "paneer"];
 // fooditems.push("naan");
 
