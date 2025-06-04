@@ -21,5 +21,7 @@ let idx = 0;
 for(let val of items)
 {
     console.log(`value at index ${idx} = ${val}`);
+    let offer = val / 10;
+    items[idx] = items[idx] - offer;
     idx++;
 }
