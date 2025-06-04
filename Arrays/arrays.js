@@ -15,10 +15,18 @@
 
 // arr[0], arr[1], arr[2];
 
-let heros = ["ironman", "hulk", "batman", "superman", "antman", "spiderman"];
+// let heros = ["ironman", "hulk", "batman", "superman", "antman", "spiderman"];
 
-for(let idx = 0; idx < heros.length; idx++)
-{
-    console.log(heros[idx]);
-    // console.log(idx, heros[idx]);
-}
+// for(let idx = 0; idx < heros.length; idx++)
+// {
+//     console.log(heros[idx]);
+//     // console.log(idx, heros[idx]);
+// }
+
+// Array Methods
+
+// Push() -> add to end
+
+// Pop() -> delete from end & return
+
+// toString() -> converts array to string
