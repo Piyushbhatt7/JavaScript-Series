@@ -16,13 +16,19 @@
 // For a given array with prices of 5 items -> [250, 645, 300, 900, 50];
 // All items are offer of 10% OFF on them. Change the array to store final prices after applying the offer.
 
-let items = [250, 645, 300, 900, 50];
-let idx = 0;
-for(let val of items)
-{
-   // console.log(`value at index ${idx} = ${val}`);
-    let offer = val / 10;
-    items[idx] = items[idx] - offer;
-    console.log(`value after offer = ${items[idx]}`)
-    idx++;
-}
+// let items = [250, 645, 300, 900, 50];
+// let idx = 0;
+// for(let val of items)
+// {
+//    // console.log(`value at index ${idx} = ${val}`);
+//     let offer = val / 10;
+//     items[idx] = items[idx] - offer;
+//     console.log(`value after offer = ${items[idx]}`)
+//     idx++;
+// }
+
+// Create an array to store companies -> "Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix";
+
+// a) Remove the first company frm the array
+// b) Remove Uber & Add Ola in its place
+// c) Add Amazon at the end
