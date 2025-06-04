@@ -48,8 +48,11 @@
 // fooditems.toString();
 // console.log(fooditems);
 
-let marvel = ["thor", "spiderman", "antman", "hulk"];
-let dc = ["superman", "batman"];
+ let marvel = ["thor", "spiderman", "antman", "hulk"];
+// let dc = ["superman", "batman"];
 
-let marvel_heros = marvel.concat(dc);
-console.log(marvel_heros);
+// let marvel_heros = marvel.concat(dc);
+// console.log(marvel_heros);
+
+marvel.unshift("pookie");
+console.log(marvel);
