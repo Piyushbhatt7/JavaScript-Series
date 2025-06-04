@@ -16,3 +16,8 @@
 // arr[0], arr[1], arr[2];
 
 let heros = ["ironman", "hulk", "batman", "superman", "antman", "spiderman"];
+
+for(let idx = 0; idx < heros.length; idx++)
+{
+    
+}
