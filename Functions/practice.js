@@ -26,9 +26,9 @@
 
 // Function to calculate 2 number
 
-function sum(x, y)
-{
-    console.log(x+y);
-}
+// function sum(x, y)
+// {
+//     console.log(x+y);
+// }
 
-sum(57, 89);
+// sum(57, 89);
