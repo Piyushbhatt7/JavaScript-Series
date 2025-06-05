@@ -89,10 +89,24 @@
 
 // For a given array of numbers, print the square of each
 
-let nums = [2, 3, 4, 5, 6];
+// let nums = [2, 3, 4, 5, 6];
 
-nums.forEach((num) => 
-{
-     console.log(num * num);
+// nums.forEach((num) => 
+// {
+//      console.log(num * num);
      
+// });
+
+// Filter create a new array of elements that give true for a condition/ filter.
+// eg. all even elements
+
+// let newArr = arr.filter((value) => {
+//      return val % 2 === 0;
+// })
+
+let arr = [1,2,3,,45,6];
+let evenArr = arr.filter((val) => {
+     return val  % 2=== 0;
 });
+
+console.log(evenArr);
