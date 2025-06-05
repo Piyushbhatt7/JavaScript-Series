@@ -16,4 +16,8 @@
 
 // functionName();
 
-
+function myFu()
+{
+    console.log("Welcome to JS");
+    console.log("Hii my friends");
+}
