@@ -42,7 +42,7 @@
 
 // sum fun
 const sum = (a,b) => {
-   return a+b;
+   console.log(a+b);
 }
 
 sum(2,2);
