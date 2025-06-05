@@ -125,3 +125,19 @@
 // take a number n as input from user. Create an array of number from 1 to n.
 // Use the reduce method to calculate sum of all number in the Array.
 // Uae the reduce method to calculate product of all number in the array.
+
+let n = prompt("enter a number: ");
+let arr = [];
+
+for(let i=1; i<=n; i++)
+{
+     arr[i-1] = i;
+}
+
+console.log(arr);
+
+let sum = arr.reduce((prev, curr) => {
+     return prev + curr;
+});
+
+console.log(sum);
