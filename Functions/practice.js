@@ -39,3 +39,10 @@
 // const funName = (para1, para2) => {
 //      do some work
 // }
+
+// sum fun
+const sum = (a,b) => {
+   return a+b;
+}
+
+sum(2,2);
