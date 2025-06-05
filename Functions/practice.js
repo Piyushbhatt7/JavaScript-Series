@@ -106,7 +106,7 @@
 
 let arr = [1,2,3,,45,6];
 let evenArr = arr.filter((val) => {
-     return val  % 2=== 0;
+     return val  > 2;
 });
 
 console.log(evenArr);
