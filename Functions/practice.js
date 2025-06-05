@@ -114,10 +114,14 @@
 
 // We given an array of marks of students. Filter out the marks of students that scored 90+.
 
-let stumarks = [87, 93, 64, 99, 86];
+// let stumarks = [87, 93, 64, 99, 86];
 
-let newarr = stumarks.filter((value) => {
-     return value > 90;
-});
+// let newarr = stumarks.filter((value) => {
+//      return value > 90;
+// });
 
-console.log(newarr);
+// console.log(newarr);
+
+// take a number n as input from user. Create an array of number from 1 to n.
+// Use the reduce method to calculate sum of all number in the Array.
+// Uae the reduce method to calculate product of all number in the array.
