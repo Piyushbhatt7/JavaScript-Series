@@ -104,9 +104,20 @@
 //      return val % 2 === 0;
 // })
 
-let arr = [1,2,3,,45,6];
-let evenArr = arr.filter((val) => {
-     return val  > 2;
+// let arr = [1,2,3,,45,6];
+// let evenArr = arr.filter((val) => {
+//      return val  > 2;
+// });
+
+// console.log(evenArr);
+
+
+// We given an array of marks of students. Filter out the marks of students that scored 90+.
+
+let stumarks = [87, 93, 64, 99, 86];
+
+let newarr = stumarks.filter((value) => {
+     return value > 90;
 });
 
-console.log(evenArr);
+console.log(newarr);
