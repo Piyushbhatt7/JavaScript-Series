@@ -16,10 +16,19 @@
 
 // functionName();
 
-function myFu()
+// function myFu()
+// {
+//     console.log("Welcome to JS");
+//     console.log("Hii my friends");
+// }
+
+// myFu();
+
+// Function to calculate 2 number
+
+function sum(x, y)
 {
-    console.log("Welcome to JS");
-    console.log("Hii my friends");
+    console.log(x+y);
 }
 
-myFu();
+sum(57, 89);
