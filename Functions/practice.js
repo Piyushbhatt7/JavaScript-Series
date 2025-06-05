@@ -81,8 +81,18 @@
 
 // A callback is a function passed as an argument to another function
 
-let arr = [1,2,3,4,5];
-arr.forEach((val) => {
+// let arr = [1,2,3,4,5];
+// arr.forEach((val) => {
 
-    console.log(val);
+//     console.log(val);
+// });
+
+// For a given array of numbers, print the square of each
+
+let nums = [2, 3, 4, 5, 6];
+
+nums.forEach((num) => 
+{
+     console.log(num * num);
+     
 });
