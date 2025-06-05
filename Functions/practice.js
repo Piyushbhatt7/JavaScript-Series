@@ -32,3 +32,10 @@
 // }
 
 // sum(57, 89);
+
+// Arrow function
+// Compact way of writing a function
+
+// const funName = (para1, para2) => {
+//      do some work
+// }
