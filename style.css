@@ -4,3 +4,11 @@ h1{
     text-decoration: dotted;
     background-color: beige;
 }
+
+body {
+    background-color: burlywood;
+}
+
+button{
+    background-color: cadetblue;
+}
